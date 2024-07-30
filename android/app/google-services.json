@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121206741823",
+    "project_id": "waggytails-ca5bf",
+    "storage_bucket": "waggytails-ca5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121206741823:android:ad336c44131fe27324518a",
+        "android_client_info": {
+          "package_name": "com.example.waggy_tail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsuuoSdWXdkJPtdRulS0fpWiiGm3ESDcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

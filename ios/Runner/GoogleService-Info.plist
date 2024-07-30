@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA_qKh2ejjlbyhJjQ6ABT7yDc2ie1bt5GQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121206741823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.waggyTail</string>
+	<key>PROJECT_ID</key>
+	<string>waggytails-ca5bf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waggytails-ca5bf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121206741823:ios:ba8a8d1f36878bd024518a</string>
+</dict>
+</plist>
